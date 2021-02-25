@@ -1,0 +1,7 @@
+C:\Users\Training\source\repos\One_LogicError\One_LogicError\obj\Debug\ProblemOne_LogicError.csprojAssemblyReference.cache
+C:\Users\Training\source\repos\One_LogicError\One_LogicError\obj\Debug\ProblemOne_LogicError.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\One_LogicError\One_LogicError\bin\Debug\One_LogicError.exe.config
+C:\Users\Training\source\repos\One_LogicError\One_LogicError\bin\Debug\One_LogicError.exe
+C:\Users\Training\source\repos\One_LogicError\One_LogicError\bin\Debug\One_LogicError.pdb
+C:\Users\Training\source\repos\One_LogicError\One_LogicError\obj\Debug\One_LogicError.exe
+C:\Users\Training\source\repos\One_LogicError\One_LogicError\obj\Debug\One_LogicError.pdb
