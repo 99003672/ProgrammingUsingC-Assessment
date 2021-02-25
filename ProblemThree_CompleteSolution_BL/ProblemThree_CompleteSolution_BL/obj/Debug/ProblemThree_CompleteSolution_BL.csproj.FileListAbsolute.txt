@@ -1,0 +1,2 @@
+C:\Users\Training\source\repos\ProblemThree_CompleteSolution_BL\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.csprojAssemblyReference.cache
+C:\Users\Training\source\repos\ProblemThree_CompleteSolution_BL\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.csproj.CoreCompileInputs.cache
