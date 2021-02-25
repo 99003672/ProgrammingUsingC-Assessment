@@ -1,0 +1,7 @@
+C:\Users\Training\source\repos\ProblemTwo_CompliationError\ProblemTwo_CompliationError\bin\Debug\ProblemTwo_CompliationError.exe.config
+C:\Users\Training\source\repos\ProblemTwo_CompliationError\ProblemTwo_CompliationError\bin\Debug\ProblemTwo_CompliationError.exe
+C:\Users\Training\source\repos\ProblemTwo_CompliationError\ProblemTwo_CompliationError\bin\Debug\ProblemTwo_CompliationError.pdb
+C:\Users\Training\source\repos\ProblemTwo_CompliationError\ProblemTwo_CompliationError\obj\Debug\ProblemTwo_CompliationError.csprojAssemblyReference.cache
+C:\Users\Training\source\repos\ProblemTwo_CompliationError\ProblemTwo_CompliationError\obj\Debug\ProblemTwo_CompliationError.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\ProblemTwo_CompliationError\ProblemTwo_CompliationError\obj\Debug\ProblemTwo_CompliationError.exe
+C:\Users\Training\source\repos\ProblemTwo_CompliationError\ProblemTwo_CompliationError\obj\Debug\ProblemTwo_CompliationError.pdb
